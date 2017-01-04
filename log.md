@@ -8,3 +8,10 @@
 
 **Link to work:** [Pull Request](https://github.com/briancbarrow/fcc-directory/commit/599bcef5e60fb95717a23042b61e38b72f7bec2f)
 
+### Day 2: Jan 3, 2017 
+
+**Today's Progress**: Read up on Github Oauth and Firebase.
+
+**Thoughts:** I was reading about how to implement Github Oauth into my app and found that Firebase has some built in functionality for that. While this is not the direction I had hoped to go in I think it will be better in the long run. I will be looking into Firebase more tomorrow.
+
+**Link to work:** [Pull Request](https://github.com/briancbarrow/fcc-directory/commit/bc06a5da1ef37d90a54dbc1359303b53cb8de4b3)
