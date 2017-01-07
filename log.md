@@ -31,3 +31,11 @@
 **Thoughts:** Started using Thinksters written tutorial on Angular 2. Didn't get anything commited to repository but did implement Angular CLI to create the app. That has been really helpful.
 
 **No link today**
+
+### Day 5: Jan 6, 2017 
+
+**Today's Progress**: Continued learning Angular 2
+
+**Thoughts:** Learned about Routing, Directives, NgModule, Directives, Pipes. Coming from React this has been really interesting. In some ways I feel Angular is complicating things more, but in others it seems better. 
+
+**No link today** [Final Pull Request]https://github.com/briancbarrow/hello-angular/commit/a02af215ecd5ab64c931b9768c4859c9f0cd2cfa
