@@ -38,4 +38,14 @@
 
 **Thoughts:** Learned about Routing, Directives, NgModule, Directives, Pipes. Coming from React this has been really interesting. In some ways I feel Angular is complicating things more, but in others it seems better. 
 
-**No link today** [Final Pull Request]https://github.com/briancbarrow/hello-angular/commit/a02af215ecd5ab64c931b9768c4859c9f0cd2cfa
+**Link to work** [Pull Request]https://github.com/briancbarrow/hello-angular/commit/a02af215ecd5ab64c931b9768c4859c9f0cd2cfa
+
+### Day 6: Jan 7, 2017 
+
+**Today's Progress**: Continued learning Angular 2. Successfully built app that shows data, passess data to child components and filters the data. 
+
+**Thoughts:** Really proud of today's work. It has been harder than anticipated, but it has also been rewarding. 
+
+**Link to work** [Pull Request]https://github.com/briancbarrow/readymed-project/commit/6dee9c9b4baf6b498920769a7a594ebba37358b0
+
+
