@@ -49,3 +49,12 @@
 **Link to work** [Pull Request]https://github.com/briancbarrow/readymed-project/commit/6dee9c9b4baf6b498920769a7a594ebba37358b0
 
 
+### Day 7: Jan 8, 2017 
+
+**Today's Progress**: Trying to hook up my Angular 2 app with the backend. Couldn't get post request to work.
+
+**Thoughts:** I think I need to subscribe to the observable. Don't remember how to do that off the top of my head. I'm hoping sleep will clear my head.
+
+**Link to work** [Pull Request]https://github.com/briancbarrow/readymed-project/commit/7462d738791a4becc096aa7dfc09b348916937c5
+
+
