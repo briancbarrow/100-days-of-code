@@ -57,4 +57,10 @@
 
 **Link to work** [Pull Request]https://github.com/briancbarrow/readymed-project/commit/7462d738791a4becc096aa7dfc09b348916937c5
 
+### Day 8-9: Jan 9-10, 2017 
 
+**Today's Progress**: I've been busy the last couple of days and forgot to post about my progress. I finally finished my Angular app and sent it off to be evaluated. I was able to create a custom Pipe also to filter my data being displayed. All in all it was a lot of fun. 
+
+**Thoughts:** I am still getting the hang of Angular and learning to think in Angular. I am glad I was able to finish it quickly. 
+
+**Link to work** [Pull Request]https://briancbarrow.github.io/readymed-project/#/puppies
