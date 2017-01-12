@@ -63,4 +63,13 @@
 
 **Thoughts:** I am still getting the hang of Angular and learning to think in Angular. I am glad I was able to finish it quickly. 
 
-**Link to work** [Pull Request]https://briancbarrow.github.io/readymed-project/#/puppies
+**Link to work** [Project]https://briancbarrow.github.io/readymed-project/#/puppies
+
+### Day 10: Jan 11, 2017 
+
+**Today's Progress**: I'm back to working on the directory for the local SLC FreeCodeCamp group. I got the Github authentication figured out and the header to display the person's name after log in. 
+
+**Thoughts:** I am much more fluent in React than Angular. This is to be expected. My brain just works in React now. Hopefully I can change that though and be fluent in both. 
+
+**Link to work** [Pull Request]https://github.com/briancbarrow/fcc-directory/commit/752988ed3298b4759a55ec575b5c5318c825cc88
+
