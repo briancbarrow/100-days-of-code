@@ -73,3 +73,10 @@
 
 **Link to work** [Pull Request]https://github.com/briancbarrow/fcc-directory/commit/752988ed3298b4759a55ec575b5c5318c825cc88
 
+### Day 11: Jan 14, 2017 
+
+**Today's Progress and Thoughts**: I started learning Ember today. I wanted to learn it as it is something that a job posting is requesting experience in. I hope to build my portfolio using it. We'll see how far I get tomorrow.
+
+**Link to work** [Pull Request]https://github.com/briancbarrow/try-ember/commit/1b02ac00efc5c44e59b3e8d8ece1c8f0f125f96e
+
+
