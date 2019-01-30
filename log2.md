@@ -29,3 +29,11 @@
 **Thoughts:** It was a lot of fun reviewing functions like `map` and `reduce` and `sort`. Definitely a good refresher. It made me even more excited to get watching courses from FrontEnd Masters.
 
 **Link to work:** no link for this day
+
+### Day 5: Jan 30, 2019
+
+**Today's Progress**: I started watching the Frontend Masters course "JavaScript: The Hard Parts" by Will Sentence. I'll also be attending a local React meetup. So no actual coding done today, but I feel a lot of good progress from this as I'm diving back into things.
+
+**Thoughts:** It has bee great. I'm only a few videos in, but it is fun to dive deep into JavaScript again.
+
+**Link to work:** no link for this day
