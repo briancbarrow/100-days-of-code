@@ -21,3 +21,11 @@
 **Thoughts:** I'll need to dive deeper into how to style things in React Native, or at least how to play around with the styling like you can in Chrome Dev Tools.
 
 **Link to work:** [Pull Request](https://github.com/briancbarrow/techStack/commit/79ca1a3fc3165b96b62c2b0ca39d7ae9976eac34)
+
+### Day 4: Jan 29, 2019
+
+**Today's Progress**: I didn't get any work done on my app because this evening was the FreeCodeCamp study group. We followed Wes Bos along his JavaScript30 course.
+
+**Thoughts:** It was a lot of fun reviewing functions like `map` and `reduce` and `sort`. Definitely a good refresher. It made me even more excited to get watching courses from FrontEnd Masters.
+
+**Link to work:** no link for this day
