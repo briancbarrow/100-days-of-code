@@ -34,6 +34,14 @@
 
 **Today's Progress**: I started watching the Frontend Masters course "JavaScript: The Hard Parts" by Will Sentence. I'll also be attending a local React meetup. So no actual coding done today, but I feel a lot of good progress from this as I'm diving back into things.
 
-**Thoughts:** It has bee great. I'm only a few videos in, but it is fun to dive deep into JavaScript again.
+**Thoughts:** It has been great. I'm only a few videos in, but it is fun to dive deep into JavaScript again.
 
 **Link to work:** no link for this day
+
+### Day 6: Jan 31, 2019
+
+**Today's Progress**: I styled my app using NativeBase UI. That has made things easier. I refactored the Calc component into a Form and a result component. I also added functionality so it is fully up and running. Tomorrow I want to learn how to publish to Play an App store. I also might look at calculating on ever keystroke.
+
+**Thoughts:** This was a lot of fun. I'm glad I stuck with it.
+
+**Link to work:** [Commit](https://github.com/briancbarrow/tdee_calculator/commit/c366f6f4cea2f8b6983f88f8331beec81a9767ea)
