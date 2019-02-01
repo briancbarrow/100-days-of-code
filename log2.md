@@ -45,3 +45,13 @@
 **Thoughts:** This was a lot of fun. I'm glad I stuck with it.
 
 **Link to work:** [Commit](https://github.com/briancbarrow/tdee_calculator/commit/c366f6f4cea2f8b6983f88f8331beec81a9767ea)
+
+### Day 7: Feb 1, 2019
+
+**Today's Progress**: I learned how to publish to Google Play Store. 
+
+**Thoughts:** It was a little complicated and I'll need to go through it again to really understand everything, but it is up there.
+
+**Link to work:** [My App on the Play Store](https://play.google.com/store/apps/details?id=com.tdee_calculator)
+
+
