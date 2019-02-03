@@ -8,13 +8,11 @@
 
 **Link to work:** [Pull Request](https://github.com/briancbarrow/techStack/commit/79ca1a3fc3165b96b62c2b0ca39d7ae9976eac34)
 
-
 ### Day 2: Jan 27, 2019
 
 **Today's Progress**: The plan today was to try to build my own simple app in react native. I kept running into issues with my computer running slow and not running commands. I finally figured out what the culprit was and fixed that. After getting that fixed I then tried to start running the new app in the simulator and kept getting the "could not find bundle" error. I tried a few different solutions that I found on github/stackoverflow but nothing seemed to work. So in short, nothing got done today, but it wasn't for lack of trying.
 
 **Thoughts:** Hopefully I can get something done tomorrow.
-
 
 ### Day 3: Jan 28, 2019
 
@@ -24,7 +22,6 @@
 
 **Link to work:** [Pull Request](https://github.com/briancbarrow/techStack/commit/79ca1a3fc3165b96b62c2b0ca39d7ae9976eac34)
 
-
 ### Day 4: Jan 29, 2019
 
 **Today's Progress**: I didn't get any work done on my app because this evening was the FreeCodeCamp study group. We followed Wes Bos along his JavaScript30 course.
@@ -32,7 +29,6 @@
 **Thoughts:** It was a lot of fun reviewing functions like `map` and `reduce` and `sort`. Definitely a good refresher. It made me even more excited to get watching courses from FrontEnd Masters.
 
 **Link to work:** no link for this day
-
 
 ### Day 5: Jan 30, 2019
 
@@ -42,7 +38,6 @@
 
 **Link to work:** no link for this day
 
-
 ### Day 6: Jan 31, 2019
 
 **Today's Progress**: I styled my app using NativeBase UI. That has made things easier. I refactored the Calc component into a Form and a result component. I also added functionality so it is fully up and running. Tomorrow I want to learn how to publish to Play an App store. I also might look at calculating on ever keystroke.
@@ -51,13 +46,18 @@
 
 **Link to work:** [Commit](https://github.com/briancbarrow/tdee_calculator/commit/c366f6f4cea2f8b6983f88f8331beec81a9767ea)
 
-
 ### Day 7: Feb 1, 2019
 
-**Today's Progress**: I learned how to publish to Google Play Store. 
+**Today's Progress**: I learned how to publish to Google Play Store.
 
 **Thoughts:** It was a little complicated and I'll need to go through it again to really understand everything, but it is up there.
 
 **Link to work:** [My App on the Play Store](https://play.google.com/store/apps/details?id=com.tdee_calculator)
 
+### Day 8: Feb 2, 2019
 
+**Today's Progress**: I created a Postgresql database and set up a Node.js API to connect with it
+
+**Thoughts:** Backend is a little out of my comfort zone. I just never feel confident in it. Today was a good exercise in it though. I started to make some good progress on the db side and am getting my feet wet with the Node server stuff again. It has been a lot of fun
+
+**Link to work:** [Commit](https://github.com/briancbarrow/curling-app-api/commit/dc01609094ffa75ca5ec043714e2741b86e36957)
