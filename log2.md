@@ -61,3 +61,25 @@
 **Thoughts:** Backend is a little out of my comfort zone. I just never feel confident in it. Today was a good exercise in it though. I started to make some good progress on the db side and am getting my feet wet with the Node server stuff again. It has been a lot of fun
 
 **Link to work:** [Commit](https://github.com/briancbarrow/curling-app-api/commit/dc01609094ffa75ca5ec043714e2741b86e36957)
+
+### Day 9: Feb 3, 2019
+
+**Today's Progress**: I didn't do anything today. I did a lot of work yesterday so I took a break today to spend time with my family
+
+**Thoughts:**
+
+**Link to work:** N/A
+
+### Day 10: Feb 4, 2019
+
+**Today's Progress**: I watched a lot of Will Sentance on Frontend Masters today. It is really good to dive dep into these concepts.
+
+**Thoughts:** FM is a great platform and I am glad I subscribed.
+
+### Day 10: Feb 5, 2019
+
+**Today's Progress**: I added the Knex.js npm package and added the newGame endpoint
+
+**Thoughts:** Knex makes things a lot easier. It is awesome to see things coming together.
+
+**Link to work:** [Commit](https://github.com/briancbarrow/curling-app-api/commit/7ec3599b97adef04a747ed8513df826b777611db)
